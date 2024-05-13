@@ -1,4 +1,4 @@
-# g-15-fitness-tracker
+#fitness-tracker
 
 Here is a complete setup for fitness application, including front-end developed in react and backend developed in nodejs.
 
